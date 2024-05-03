@@ -11,7 +11,23 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+
 }
+ .error {
+  color: red;
+  font-weight : bold;
+  font-Size: 14;
+}
+
+.information {
+  color : rgb(131, 211, 131);
+  font-weight: bolder;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+
 
 .App-header {
   background-color: #282c34;
